@@ -1,4 +1,4 @@
-# Wisk
+# <img width="100" height="100" alt="wisk logo" src="https://github.com/user-attachments/assets/8a4cb94f-a063-481a-8cf1-39b398e59eb8" /> Wisk
 
 Cooking up web templates since 2025
 
