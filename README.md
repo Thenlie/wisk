@@ -1,6 +1,6 @@
 # <img width="100" height="100" alt="wisk logo" src="./assets/matcha-whisk.png" /> Wisk
 
-Cooking up web templates since 2025
+Cookin' up web templates since 2025
 
 ## Questions?
 
