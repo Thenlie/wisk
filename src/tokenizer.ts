@@ -49,8 +49,9 @@ export function tokenize(template: string): Token[] {
                     } else {
                         // For now, fall back to treating the raw tag as text
                         tokens.push({
-                            type: 'text',
-                            value: `{{${tagBuffer}}}`,
+                            type: 'variable',
+                            value: tagBuffer,
+                            isEscaped: false,
                         });
                     }
                     tagBuffer = '';
